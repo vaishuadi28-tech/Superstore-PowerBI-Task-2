@@ -1,7 +1,7 @@
 📊 Superstore Sales Analysis – Power BI Project
 
 Prepared by: Aadhya Md
-Date: 17/11/2025
+Date: 16/11/2025
 
 📌 Project Overview
 
@@ -37,13 +37,13 @@ This submission is part of Elevate Labs — Power BI Internship Task.
 📦 Superstore-Data-Analysis-PowerBI
 │
 ├── Superstore_Dashboard.pbix              # Full Power BI dashboard
-├── Superstore_storyboard.pdf              # Complete storyboard exported as PDF
+├── Superstore_storyboard.pdf              # Storyboard exported as PDF
 │
 ├── CLEANING STEPS — SUPERSTORE.txt        # Power Query cleaning steps
-├── DAX MEASURES — EXPLANATION.txt         # All DAX formulas + explanations
+├── DAX MEASURES — EXPLANATION.txt         # Basic DAX formulas + explanation
 ├── INSIGHTS — SUPERSTORE ANALYSIS.txt     # Unfiltered + filtered insights
 │
-├── Unfiltered_dashboard.png               
+├── Unfiltered_dashboard.png
 ├── Filter1_dashboard.png
 ├── Filter2_dashboard.png
 ├── Filter3_dashboard.png
@@ -57,32 +57,24 @@ This submission is part of Elevate Labs — Power BI Internship Task.
 
 🧽 Data Preparation (Power Query)
 
-Cleaning steps performed:
+Steps performed:
 
-Converted date column (Order Date)
+Converted Order Date column to proper date format
 
-Extracted:
+Extracted Year, Month, Month Name, Quarter
 
-Year
+Corrected numeric data types
 
-Month
+Removed unwanted formatting
 
-Month Name
-
-Quarter
-
-Corrected data types
-
-Removed unnecessary formatting
-
-Ensured dataset is clean for analysis
+Ensured clean and structured dataset before loading into Power BI
 
 🔹 Detailed steps:
 CLEANING STEPS — SUPERSTORE.txt
 
 🧮 DAX Measures
 
-Core measures created in Power BI:
+Basic measures used:
 
 Total Sales
 
@@ -92,14 +84,14 @@ Total Orders
 
 Profit Margin
 
-Simple and essential measures only — used for KPI cards and analysis.
+These were used to build KPI cards and support analysis.
 
-🔹 All formulas explained:
+🔹 All formulas explained in:
 DAX MEASURES — EXPLANATION.txt
 
 📊 Dashboard Summary
 
-Main dashboard visuals include:
+The main dashboard includes:
 
 KPI Cards (Sales, Profit, Orders, Margin)
 
@@ -107,87 +99,80 @@ Sales by Category
 
 Sales by Sub-Category
 
-Ship Mode distribution
+Ship Mode Distribution
 
-State-wise Map
+State-wise Sales Map
 
-Profit vs Sales scatter plot
+Profit vs Sales Scatter Plot
 
-Slicers: Category, Region, Segment, Ship Mode
+Slicers (Category, Region, Segment, Ship Mode)
 
-Filtered dashboards represent 4 business scenarios:
+Filtered dashboards represent four business scenarios:
 
-Category-specific breakdowns
+Category-wise breakdown
 
-Region variations
+Region differences
 
-Segment preferences
+Segment patterns
 
 Shipping behavior
 
-🔹 All insights documented:
+🔹 All insights documented in:
 INSIGHTS — SUPERSTORE ANALYSIS.txt
 
 📝 Storyboard (Business Summary)
 
-Includes:
+Contains:
 
 Overall insights
 
-Visual-level insights
+Visual-level analysis
 
-Filtered insights
+Filtered dashboard insights
 
-Key learnings
+Key business learnings
 
-Business recommendations
+Recommendations
 
-The storyboard is cleanly organized into Page 1 (Insights) and Page 2 (Recommendations).
+Storyboard includes Page 1 (Insights) and Page 2 (Recommendations).
 
-📄 View the full storyboard:
-Superstore_storyboard.pdf
+📄 File: Superstore_storyboard.pdf
 
 ▶ How to Open and Run the Project
 1️⃣ Open the Dashboard
 
 Download Superstore_Dashboard.pbix
 
-Open using Power BI Desktop (free)
+Open in Power BI Desktop (free)
 
 2️⃣ View the Storyboard
 
-Click Superstore_storyboard.pdf → Opens directly in GitHub
+Click Superstore_storyboard.pdf
 OR
 
-Download → Open using any PDF application
+Download → Open in any PDF viewer
 
-3️⃣ Open Cleaning Steps
+3️⃣ Cleaning Steps
 
-Click CLEANING STEPS — SUPERSTORE.txt
+Open CLEANING STEPS — SUPERSTORE.txt
 
-View inside GitHub or download as a normal text file
+Simple text explaining Power Query cleaning
 
-4️⃣ Open DAX Measures
+4️⃣ DAX Measures
 
-Click DAX MEASURES — EXPLANATION.txt
+Open DAX MEASURES — EXPLANATION.txt
 
-Shows all formulas and explanations
+Shows formulas + short explanation
 
-5️⃣ View Insights
+5️⃣ Insights
 
-INSIGHTS — SUPERSTORE ANALYSIS.txt contains:
+INSIGHTS — SUPERSTORE ANALYSIS.txt → unfiltered + filtered insights
 
-Unfiltered analysis
+6️⃣ Screenshots
 
-Filter-based insights
+Open any .png file
 
-Summary interpretations
-
-6️⃣ View Visual Screenshots
-
-Open any PNG file → GitHub previews automatically
-
-Useful for referencing visuals outside Power BI
+GitHub automatically shows previews
 
 🎯 Conclusion
 
@@ -195,12 +180,12 @@ This project demonstrates:
 
 End-to-end Power BI analysis
 
-Proper data cleaning in Power Query
+Clean data preparation
 
-Meaningful DAX calculations
+Simple but effective DAX usage
 
-Strong dashboard design
+Insightful dashboard design
 
-Insightful business storytelling
+Clear business storytelling
 
 Professional documentation
