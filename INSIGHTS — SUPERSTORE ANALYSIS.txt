@@ -1,0 +1,74 @@
+OVERALL INSIGHTS — Unfiltered Dashboard
+
+1. Total Sales ≈ ₹2.30M across all orders.
+2. Total Profit ≈ ₹286K with a 12% profit margin.
+3. Total Orders = 5009.
+4. Technology is the highest revenue category (~₹0.84M).
+5. Furniture and Office Supplies contribute almost equally.
+6. Phones, Chairs, Storage, and Machines dominate sub-category sales.
+7. Bookcases and Tables show poor profitability despite sales.
+8. Standard Class accounts for most orders (~59%).
+9. Highest sales states include California, New York, and Texas.
+10. Profit vs Sales varies widely — some items sell well but produce low profit.
+
+VISUAL-LEVEL INSIGHTS
+
+Sales by Category:
+- Technology dominates revenue.
+- Furniture & Office Supplies follow closely.
+
+Sales by Sub-Category:
+- Phones, Chairs, Storage, Machines → strong performers.
+- Bookcases & Tables → weak profitability.
+
+Sales by Ship Mode:
+- Standard Class is most preferred.
+- Premium shipping (Same Day + First Class) is low.
+
+Sales by State:
+- Strongest in West & East regions.
+- Central & South are underperforming.
+
+Profit vs Sales Scatter:
+- Phones, Accessories, Machines → high-profit items.
+- Tables & Bookcases → low or negative profit.
+
+FILTERED INSIGHTS
+
+Filter 1 — Office Supplies | West | Home Office:
+- Sales ≈ ₹15.11K, Profit Margin ≈ 27%.
+- Binders & Storage strong.
+- West region performs well.
+
+Filter 2 — Furniture | South | Corporate:
+- Sales ≈ ₹12.25K, Profit Margin = 5%.
+- Chairs lead sales but with low profit.
+- South region underperforms.
+
+Filter 3 — Technology | East | Consumer:
+- Sales ≈ ₹15.94K, Profit Margin ≈ 15%.
+- Phones & Accessories strong.
+- East region stable.
+
+Filter 4 — Mixed Categories | Multiple Regions | Home Office:
+- Sales ≈ ₹95.98K, Profit Margin ≈ 11%.
+- Office Supplies dominate.
+- Mixed profitability.
+
+KEY BUSINESS LEARNINGS
+
+1. Technology is strongest and most profitable.
+2. Furniture has sales but weak profitability.
+3. Office Supplies perform steadily with some high-profit items.
+4. Standard Class is most cost-effective.
+5. West & East outperform; South needs improvement.
+6. Bookcases & Tables need pricing/discount review.
+
+RECOMMENDATIONS
+
+1. Reduce discounting for low-profit categories.
+2. Promote high performers (Phones, Chairs, Accessories).
+3. Encourage Standard Class shipping.
+4. Improve marketing in the South & Central regions.
+5. Consider bundle offers for Office Supplies.
+6. Review pricing on Bookcases & Tables.

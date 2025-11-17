@@ -1,0 +1,14 @@
+Data Cleaning Steps Performed in Power Query
+
+1. Loaded the Superstore dataset into Power Query.
+2. Verified automatically detected data types.
+3. Corrected Order Date and Ship Date using:
+   Change Type → Using Locale → English (United States)
+4. Applied Trim and Clean to remove unwanted spaces.
+5. Ensured numeric fields (Sales, Profit, Quantity, Discount) were correct.
+6. Created the following columns inside Power Query:
+   - Year
+   - Month
+   - Month-Year (MMM YYYY)
+7. Confirmed no errors were present in the dataset.
+8. Loaded the cleaned data into Power BI for visualization.

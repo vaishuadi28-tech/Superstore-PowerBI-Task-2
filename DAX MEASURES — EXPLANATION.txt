@@ -1,0 +1,30 @@
+DAX MEASURES USED IN THE PROJECT
+
+1. Total Sales
+   Formula:
+   Total Sales = SUM('Orders'[Sales])
+   Why Used:
+   - To calculate total revenue across all transactions.
+   - Required for KPI cards, bar charts, category-wise comparisons.
+
+2. Total Profit
+   Formula:
+   Total Profit = SUM('Orders'[Profit])
+   Why Used:
+   - Shows business profitability.
+   - Allows comparison between categories and subcategories.
+
+3. Profit Margin
+   Formula:
+   Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+   Why Used:
+   - Shows how efficiently revenue turns into profit.
+   - Helps identify high-profit vs low-profit regions and products.
+
+4. Total Orders
+   Formula:
+   Total Orders = COUNTROWS('Orders')
+   Why Used:
+   - Required for KPI card.
+   - Helps understand customer activity and order flow.
+
