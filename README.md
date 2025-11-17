@@ -1,47 +1,40 @@
-📊 Superstore Sales Analysis – Power BI Project
+# 📊 Superstore Sales Analysis – Power BI Project  
 
-Prepared by: Aadhya Md
-Date: 16/11/2025
+**Prepared by:** Aadhya Md  
+**Date:** 17/11/2025  
 
-📌 Project Overview
+---
 
-This project analyzes the Superstore dataset using Power BI, focusing on:
+## 📌 Project Overview  
+This project analyzes the Superstore dataset using **Power BI**, focusing on:  
+- Sales performance  
+- Profitability  
+- Regional analysis  
+- Customer segments  
+- Product category trends  
 
-Sales performance
+This repository includes:  
+- Full Power BI dashboard  
+- Storyboard (PDF)  
+- Visual screenshots  
+- Cleaning steps  
+- DAX measures  
+- Insights  
 
-Profitability
+This submission is part of **Elevate Labs — Power BI Internship Task**.
 
-Regional analysis
+---
 
-Customer segments
+## 📁 Repository Structure  
 
-Product category trends
-
-The repository includes:
-
-Full Power BI dashboard
-
-Storyboard (PDF)
-
-Visual screenshots
-
-Cleaning steps
-
-DAX measures
-
-Insights
-
-This submission is part of Elevate Labs — Power BI Internship Task.
-
-📁 Repository Structure
-📦 Superstore-Data-Analysis-PowerBI
+Superstore-Data-Analysis-PowerBI
 │
-├── Superstore_Dashboard.pbix              # Full Power BI dashboard
-├── Superstore_storyboard.pdf              # Storyboard exported as PDF
+├── Superstore_Dashboard.pbix → Full Power BI dashboard
+├── Superstore_storyboard.pdf → Storyboard exported as PDF
 │
-├── CLEANING STEPS — SUPERSTORE.txt        # Power Query cleaning steps
-├── DAX MEASURES — EXPLANATION.txt         # Basic DAX formulas + explanation
-├── INSIGHTS — SUPERSTORE ANALYSIS.txt     # Unfiltered + filtered insights
+├── CLEANING STEPS — SUPERSTORE.txt → Power Query cleaning steps
+├── DAX MEASURES — EXPLANATION.txt → Basic DAX formulas + explanation
+├── INSIGHTS — SUPERSTORE ANALYSIS.txt → Unfiltered + filtered insights
 │
 ├── Unfiltered_dashboard.png
 ├── Filter1_dashboard.png
@@ -55,137 +48,107 @@ This submission is part of Elevate Labs — Power BI Internship Task.
 ├── State_map.png
 └── Profit_vs_Sales.png
 
-🧽 Data Preparation (Power Query)
 
-Steps performed:
+---
 
-Converted Order Date column to proper date format
+## 🧽 Data Preparation (Power Query)
 
-Extracted Year, Month, Month Name, Quarter
+Cleaning steps performed:
+- Converted **Order Date** to proper date format  
+- Extracted **Year**, **Month**, **Month Name**, **Quarter**  
+- Corrected data types  
+- Removed formatting inconsistencies  
+- Ensured dataset was clean and ready for visuals  
 
-Corrected numeric data types
+🔹 Detailed cleaning steps available in:  
+**CLEANING STEPS — SUPERSTORE.txt**
 
-Removed unwanted formatting
+---
 
-Ensured clean and structured dataset before loading into Power BI
+## 🧮 DAX Measures  
+Core measures used in the dashboard:
 
-🔹 Detailed steps:
-CLEANING STEPS — SUPERSTORE.txt
+- **Total Sales**  
+- **Total Profit**  
+- **Total Orders**  
+- **Profit Margin**
 
-🧮 DAX Measures
+These measures were used for KPI cards and analysis.
 
-Basic measures used:
+🔹 All formulas explained in:  
+**DAX MEASURES — EXPLANATION.txt**
 
-Total Sales
+---
 
-Total Profit
+## 📊 Dashboard Summary  
 
-Total Orders
+Main dashboard visuals include:
+- KPI Cards  
+- Sales by Category  
+- Sales by Sub-Category  
+- Ship Mode distribution  
+- State-wise Sales Map  
+- Profit vs Sales Scatter Plot  
+- Slicers for Category, Region, Segment, Ship Mode  
 
-Profit Margin
+Filtered dashboards (4 scenarios) include:  
+- Category-wise analysis  
+- Region performance  
+- Segment behavior  
+- Shipping preferences  
 
-These were used to build KPI cards and support analysis.
+🔹 Detailed insights available in:  
+**INSIGHTS — SUPERSTORE ANALYSIS.txt**
 
-🔹 All formulas explained in:
-DAX MEASURES — EXPLANATION.txt
+---
 
-📊 Dashboard Summary
+## 📝 Storyboard (Business Summary)
 
-The main dashboard includes:
+The storyboard includes:
+- Overall insights  
+- Visual-level insights  
+- Filtered insights  
+- Key business learnings  
+- Recommendations  
 
-KPI Cards (Sales, Profit, Orders, Margin)
+📄 View the full storyboard at:  
+**Superstore_storyboard.pdf**
 
-Sales by Category
+---
 
-Sales by Sub-Category
+## ▶ How to Open and Run This Project  
 
-Ship Mode Distribution
+### **1️⃣ Open the Dashboard**
+- Download **Superstore_Dashboard.pbix**  
+- Open using **Power BI Desktop (Free)**  
 
-State-wise Sales Map
+### **2️⃣ View Storyboard**
+- Click **Superstore_storyboard.pdf** (opens directly on GitHub)  
+- OR download → open in any PDF viewer  
 
-Profit vs Sales Scatter Plot
+### **3️⃣ Cleaning Steps**
+- Open **CLEANING STEPS — SUPERSTORE.txt**  
 
-Slicers (Category, Region, Segment, Ship Mode)
+### **4️⃣ DAX Measures**
+- Open **DAX MEASURES — EXPLANATION.txt**  
 
-Filtered dashboards represent four business scenarios:
+### **5️⃣ Insights**
+- Open **INSIGHTS — SUPERSTORE ANALYSIS.txt**  
 
-Category-wise breakdown
+### **6️⃣ Visual Screenshots**
+- All PNG images can be previewed directly in GitHub  
 
-Region differences
+---
 
-Segment patterns
-
-Shipping behavior
-
-🔹 All insights documented in:
-INSIGHTS — SUPERSTORE ANALYSIS.txt
-
-📝 Storyboard (Business Summary)
-
-Contains:
-
-Overall insights
-
-Visual-level analysis
-
-Filtered dashboard insights
-
-Key business learnings
-
-Recommendations
-
-Storyboard includes Page 1 (Insights) and Page 2 (Recommendations).
-
-📄 File: Superstore_storyboard.pdf
-
-▶ How to Open and Run the Project
-1️⃣ Open the Dashboard
-
-Download Superstore_Dashboard.pbix
-
-Open in Power BI Desktop (free)
-
-2️⃣ View the Storyboard
-
-Click Superstore_storyboard.pdf
-OR
-
-Download → Open in any PDF viewer
-
-3️⃣ Cleaning Steps
-
-Open CLEANING STEPS — SUPERSTORE.txt
-
-Simple text explaining Power Query cleaning
-
-4️⃣ DAX Measures
-
-Open DAX MEASURES — EXPLANATION.txt
-
-Shows formulas + short explanation
-
-5️⃣ Insights
-
-INSIGHTS — SUPERSTORE ANALYSIS.txt → unfiltered + filtered insights
-
-6️⃣ Screenshots
-
-Open any .png file
-
-GitHub automatically shows previews
-
-🎯 Conclusion
+## 🎯 Conclusion  
 
 This project demonstrates:
+- End-to-end Power BI analysis  
+- Clean data preparation  
+- Business-focused dashboard design  
+- Clear storytelling using a structured storyboard  
+- Professional documentation & insights  
 
-End-to-end Power BI analysis
+---
 
-Clean data preparation
 
-Simple but effective DAX usage
-
-Insightful dashboard design
-
-Clear business storytelling
-
-Professional documentation
