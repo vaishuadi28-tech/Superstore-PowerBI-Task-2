@@ -1,7 +1,7 @@
 # 📊 Superstore Sales Analysis – Power BI Project  
 
 **Prepared by:** Aadhya Md  
-**Date:** 17/11/2025  
+**Date:** 16/11/2025  
 
 ---
 
@@ -29,12 +29,12 @@ This submission is part of **Elevate Labs — Power BI Internship Task**.
 
 Superstore-Data-Analysis-PowerBI
 │
-├── Superstore_Dashboard.pbix → Full Power BI dashboard
-├── Superstore_storyboard.pdf → Storyboard exported as PDF
+├── Superstore_Dashboard.pbix
+├── Superstore_storyboard.pdf
 │
-├── CLEANING STEPS — SUPERSTORE.txt → Power Query cleaning steps
-├── DAX MEASURES — EXPLANATION.txt → Basic DAX formulas + explanation
-├── INSIGHTS — SUPERSTORE ANALYSIS.txt → Unfiltered + filtered insights
+├── CLEANING STEPS — SUPERSTORE.txt
+├── DAX MEASURES — EXPLANATION.txt
+├── INSIGHTS — SUPERSTORE ANALYSIS.txt
 │
 ├── Unfiltered_dashboard.png
 ├── Filter1_dashboard.png
