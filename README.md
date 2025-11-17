@@ -29,12 +29,12 @@ This submission is part of **Elevate Labs — Power BI Internship Task**.
 
 Superstore-Data-Analysis-PowerBI
 │
-├── Superstore_Dashboard.pbix
-├── Superstore_storyboard.pdf
+├── Superstore_Dashboard.pbix              → Full Power BI dashboard
+├── Superstore_storyboard.pdf              → Storyboard exported as PDF
 │
-├── CLEANING STEPS — SUPERSTORE.txt
-├── DAX MEASURES — EXPLANATION.txt
-├── INSIGHTS — SUPERSTORE ANALYSIS.txt
+├── CLEANING STEPS — SUPERSTORE.txt        → Power Query cleaning steps
+├── DAX MEASURES — EXPLANATION.txt         → Basic DAX formulas + explanation
+├── INSIGHTS — SUPERSTORE ANALYSIS.txt     → Unfiltered + filtered insights
 │
 ├── Unfiltered_dashboard.png
 ├── Filter1_dashboard.png
