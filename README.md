@@ -28,24 +28,43 @@ This submission is part of **Elevate Labs — Power BI Internship Task**.
 ## 📁 Repository Structure  
 
 Superstore-Data-Analysis-PowerBI
+
 │
+
 ├── Superstore_Dashboard.pbix              → Full Power BI dashboard
+
 ├── Superstore_storyboard.pdf              → Storyboard exported as PDF
+
 │
+
 ├── CLEANING STEPS — SUPERSTORE.txt        → Power Query cleaning steps
+
 ├── DAX MEASURES — EXPLANATION.txt         → Basic DAX formulas + explanation
+
 ├── INSIGHTS — SUPERSTORE ANALYSIS.txt     → Unfiltered + filtered insights
+
 │
+
 ├── Unfiltered_dashboard.png
+
 ├── Filter1_dashboard.png
+
 ├── Filter2_dashboard.png
+
 ├── Filter3_dashboard.png
+
 ├── Filter4_dashboard.png
+
 │
+
 ├── Sales_by_category.png
+
 ├── Sales_by_subcategory.png
+
 ├── Sales_by_shipmode.png
+
 ├── State_map.png
+
 └── Profit_vs_Sales.png
 
 
